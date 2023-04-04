@@ -1,3 +1,7 @@
+#Developer : Keshava
+#Purpose of this program to print Hello world
+#Date : Apr 04th 2023
+
 import java.util.Scanner;
 
 class CheckEvenOdd
